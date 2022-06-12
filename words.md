@@ -84,4 +84,11 @@
 - [ ] circumstance
 - [ ] awful
 - [ ] glorious
-- [ ] 
+- [ ] adopt
+- [ ] adept
+- [ ] adapt
+- [ ] version
+- [ ] enclose
+- [ ] articulate
+- [ ] subtle
+- [ ] grain
