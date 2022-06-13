@@ -92,5 +92,53 @@
 - [ ] articulate
 - [ ] subtle
 - [ ] grain
-# 2020.6.14 ()
+# 2020.6.14 (48个)
 - [ ] scholar
+- [ ] entertainer
+- [ ] entrepreneur
+- [ ] for the sake of
+- [ ] place a high value on
+- [ ] pervasive
+- [ ] trace the roots of
+- [ ] anything but
+- [ ] distaste
+- [ ] vulnerable
+- [ ] exploitation
+- [ ] second-rate
+- [ ] could and should
+- [ ] the life of the mind
+- [ ] along this path
+- [ ] a second-rate country
+- [ ] privilege
+- [ ] populist
+- [ ] smell of
+- [ ] elitism
+- [ ] practicality
+- [ ] noble quality
+- [ ] rigorous
+- [ ] transcendentalist
+- [ ] transcend
+- [ ] recite
+- [ ] bellyful
+- [ ] belly
+- [ ] examplify
+- [ ] preserve
+- [ ] innate
+- [ ] goodness
+- [ ] rigorous book learning
+- [ ] put unnatural restraints on
+- [ ] with a bellyful of
+- [ ] contemplative
+- [ ] grasp
+- [ ] manipulate
+- [ ] re-order
+- [ ] ponder
+- [ ] theorize
+- [ ] seek to
+- [ ] in the grips of
+- [ ] militantly
+- [ ] proclaim
+- [ ] hostility
+- [ ] identify
+- [ ] joyfully and militantly
+- [ ] cordial
