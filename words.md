@@ -1,97 +1,97 @@
 # 2022.6.13 (93个)
-- [ ] rub
-- [ ] stain
-- [ ] fragrant
-- [ ] excerpt
-- [ ] missile
-- [ ] exempt
-- [ ] franchise
-- [ ] ivory
-- [ ] cemetery
-- [ ] comet
-- [ ] jealous
-- [ ] municipal
-- [ ] clergy
-- [ ] destructive
-- [ ] sole
-- [ ] gut
-- [ ] buffalo
-- [ ] paralyse
-- [ ] calculate
-- [ ] yield
-- [ ] blossom
-- [ ] bosom
-- [ ] predominant
-- [ ] chief
-- [ ] glimpse
-- [ ] whirl
-- [ ] wheel
-- [ ] deliver
-- [ ] escalate
-- [ ] demonstration
-- [ ] thereof
-- [ ] drip
-- [ ] canvas
-- [ ] trash
-- [ ] detail
-- [ ] retail
-- [ ] entail
-- [ ] hatch
-- [ ] statue
-- [ ] orchard
+- [x] rub
+- [x] stain
+- [x] fragrant
+- [x] excerpt
+- [x] missile
+- [x] exempt
+- [x] franchise
+- [x] ivory
+- [x] cemetery
+- [x] comet
+- [x] jealous
+- [x] municipal
+- [x] clergy
+- [x] destructive
+- [x] sole
+- [x] gut
+- [x] buffalo
+- [x] paralyse
+- [x] calculate
+- [x] yield
+- [x] blossom
+- [x] bosom
+- [x] predominant
+- [x] chief
+- [x] glimpse
+- [x] whirl
+- [x] wheel
+- [x] deliver
+- [x] escalate
+- [x] demonstration
+- [x] thereof
+- [x] drip
+- [x] canvas
+- [x] trash
+- [x] detail
+- [x] retail
+- [x] entail
+- [x] hatch
+- [x] statue
+- [x] orchard
 - [ ] practitioner
-- [ ] impress
-- [ ] massacre
-- [ ] tariff
-- [ ] section
-- [ ] session
-- [ ] superficial
-- [ ] ankle
-- [ ] recruit
-- [ ] priority
-- [ ] scare
-- [ ] leather
-- [ ] transport
-- [ ] casual
-- [ ] inject
-- [ ] descend
-- [ ] ascend
-- [ ] decline
-- [ ] deteriorate
-- [ ] depress
-- [ ] mission
-- [ ] commission
-- [ ] ministry
-- [ ] tackle
-- [ ] magnetic
+- [x] impress
+- [x] massacre
+- [x] tariff
+- [x] section
+- [x] session
+- [x] superficial
+- [x] ankle
+- [x] recruit
+- [x] priority
+- [x] scare
+- [x] leather
+- [x] transport
+- [x] casual
+- [x] inject
+- [x] descend
+- [x] ascend
+- [x] decline
+- [x] deteriorate
+- [x] depress
+- [x] mission
+- [x] commission
+- [x] ministry
+- [x] tackle
+- [x] magnetic
 - [ ] masculine
 - [ ] macho
 - [ ] effeminate
-- [ ] feminine
-- [ ] counter
+- [x] feminine
+- [x] counter
 - [ ] counteract
-- [ ] counterbalance
-- [ ] alarm
-- [ ] jargon
-- [ ] idiom
-- [ ] dialect
-- [ ] byword
-- [ ] term
-- [ ] identification
-- [ ] analyse
-- [ ] civilisation
-- [ ] military
-- [ ] circumstance
-- [ ] awful
-- [ ] glorious
-- [ ] adopt
-- [ ] adept
-- [ ] adapt
-- [ ] version
-- [ ] enclose
+- [x] counterbalance
+- [x] alarm
+- [x] jargon
+- [x] idiom
+- [x] dialect
+- [x] byword
+- [x] term
+- [x] identification
+- [x] analyse
+- [x] civilisation
+- [x] military
+- [x] circumstance
+- [x] awful
+- [x] glorious
+- [x] adopt
+- [x] adept
+- [x] adapt
+- [x] version
+- [x] enclose
 - [ ] articulate
-- [ ] subtle
-- [ ] grain
+- [x] subtle
+- [x] grain
 # 2020.6.14 (48个)
 - [ ] scholar
 - [ ] entertainer
