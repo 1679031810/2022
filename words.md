@@ -93,3 +93,4 @@
 - [ ] subtle
 - [ ] grain
 # 2020.6.14 ()
+- [ ] scholar
