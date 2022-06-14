@@ -142,3 +142,43 @@
 - [ ] identify
 - [ ] joyfully and militantly
 - [ ] cordial
+# 2022.6.15
+- [ ] entitlement
+- [ ] welfare
+- [ ] dishonor
+- [ ] saleroom
+- [ ] gallery
+- [ ] auction
+- [ ] misery
+- [ ] assimilate
+- [ ] monopolize
+- [ ] endless
+- [ ] democratize
+- [ ] uniformity
+- [ ] discourse
+- [ ] causalness
+- [ ] deference
+- [ ] vast
+- [ ] array
+- [ ] vast arrays of goods
+- [ ] intimate
+- [ ] elite
+- [ ] mass media
+- [ ] intimate shops
+- [ ] department stores
+- [ ] unanimous
+- [ ] ruling
+- [ ] overturn
+- [ ] corruption
+- [ ] conviction
+- [ ] ehic
+- [ ] automobile
+- [ ] contemptuous
+- [ ] inexorable
+- [ ] scope
+- [ ] coverage
+- [ ] marvel
+- [ ] deem
+- [ ] circulation
+- [ ] daily
+- [ ] 
